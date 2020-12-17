@@ -49,13 +49,4 @@ def get_sum_after(n_dim=3, n_rounds=6):
 get_sum_after()
 get_sum_after(4)
 
-
-def part_one():
-    pass
-
-
-def part_two():
-    pass
-
-
 print("--- %s seconds ---" % (time.time() - start_time))
